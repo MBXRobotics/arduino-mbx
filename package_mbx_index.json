@@ -1,0 +1,30 @@
+{
+  "packages": [
+    {
+      "name": "MBXRobotics",
+      "maintainer": "MBXRobotics",
+      "websiteURL": "https://github.com/MBXRobotics/MBXRabbitGo",
+      "email": "mbxrobotics@gmail.com",
+      "help": {
+        "online": ""
+      },
+      "platforms": [
+        {
+          "name": "MBXRobotics",
+          "architecture": "esp32",
+          "version": "2.4.5",
+          "category": "Contributed",
+          "url": "https://github.com/MBXRobotics/MBXRabbitGo/releases/download/v1.0.0/MBXRabbitGo-1.0.0.zip",
+          "archiveFileName": "MBXRabbitGo-1.0.0.zip",
+          "checksum": "SHA-256:PUT_YOUR_FILE_HASH_HERE",
+          "size": 123456,
+          "boards": [
+            {"name": "MBXRabbitGo,MBX"}
+          ],
+          "toolsDependencies": []
+        }
+      ],
+      "tools": []
+    }
+  ]
+}
